@@ -17,3 +17,11 @@ function destructivelyAddElementToEndOfArray(array,element2add){
   array = [...array,element2add]
   return array
 }
+
+function accessElementInArray(){
+  //text
+}
+
+function name{}{
+  //text
+}
