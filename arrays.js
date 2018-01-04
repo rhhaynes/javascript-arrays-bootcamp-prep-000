@@ -1,4 +1,4 @@
-function addElementToBeginningOfArray(array,element2add){
+/*function addElementToBeginningOfArray(array,element2add){
   var newArray = [element2add,...array]
   return newArray
 }
@@ -40,4 +40,4 @@ function destructivelyRemoveElementFromEndOfArray(array){
 function removeElementFromEndOfArray(array){
   array = array.slice(0,array.length-1)
   return array
-}
+}*/
