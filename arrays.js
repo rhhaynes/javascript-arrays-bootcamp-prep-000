@@ -18,10 +18,11 @@ function destructivelyAddElementToEndOfArray(array,element2add){
   return array
 }
 
-function accessElementInArray(){
-  //text
+function accessElementInArray(array,index){
+  var element = array[index]
+  return element
 }
 
-function name{}{
+function name(){
   //text
 }
